@@ -89,7 +89,3 @@ The frontend will run at http://localhost:3000.
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Other Libraries**: Axios (for API requests), React Modal (for task editing)
-
-## Credits
-
-This project was created by [Tushar Kesarwani](https://github.com/TusharKesarwani) as a task management system inspired by the Kanban methodology.
